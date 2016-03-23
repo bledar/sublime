@@ -1,2 +1,5 @@
 Linux Path
 /home/bledar/Sublime/User
+
+Windows Path
+~/AppData/Roaming/Sublime Text 3/Packages/User 
