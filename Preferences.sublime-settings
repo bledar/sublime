@@ -6,7 +6,7 @@
 	"caret_extra_width": 2,
 	"caret_style": "phase",
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/User/SublimeLinter/Afterglow-monokai (SL).tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"drag_text": false,
@@ -46,7 +46,7 @@
 	"tab_size": 4,
 	"tabs_label_not_italic": true,
 	"tabs_large": true,
-	"theme": "SodaSeti Dark 3.sublime-theme",
+	"theme": "SodaSeti Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
