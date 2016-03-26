@@ -43,12 +43,11 @@
 	"sidebar_row_padding_large": false,
 	"sidebar_size_14": true,
 	"status_bar_brighter": true,
+	"tab_height": 25,
+	"tab_min_width": 48,
 	"tab_size": 4,
-	"tabs_small": true,
 	"tabs_padding_medium": true,
-	"color_inactive_tabs": true,
+	"tabs_small": true,
 	"theme": "Afterglow-blue.sublime-theme",
-	"translate_tabs_to_spaces": true,
-    "tab_min_width": 48,
-    "tab_height": 25
+	"translate_tabs_to_spaces": true
 }
