@@ -5,20 +5,20 @@
 	],
 	"installed_packages":
 	[
+		"Agila Theme",
 		"Alignment",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"Emmet",
 		"LiveReload",
 		"Material Theme",
-		"Monokai - Spacegray",
 		"Package Control",
 		"Seti_UI",
 		"SFTP",
+		"SidebarSeparator",
 		"Theme - Afterglow",
+		"Theme - Brogrammer",
 		"Theme - Soda",
-		"Theme - SodaSeti",
-		"Theme - Spacegray",
 		"TYPO3 Fluid Snippets",
 		"TypoScript",
 		"WordPress"
