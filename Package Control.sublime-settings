@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"Agila Theme",
 		"Alignment",
 		"BracketHighlighter",
 		"Color Highlighter",
@@ -13,11 +12,9 @@
 		"LiveReload",
 		"Material Theme",
 		"Package Control",
-		"Seti_UI",
 		"SFTP",
 		"SidebarSeparator",
 		"Theme - Afterglow",
-		"Theme - Brogrammer",
 		"Theme - Soda",
 		"TYPO3 Fluid Snippets",
 		"TypoScript",

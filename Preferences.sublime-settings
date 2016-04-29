@@ -4,11 +4,13 @@
 	"caret_extra_top": 2,
 	"caret_extra_width": 2,
 	"caret_style": "phase",
-	"color_inactive_tabs": true,
+	//"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
+	"indent_guide_options": [ "draw_normal", "draw_active" ], 
+	"always_show_minimap_viewport": true,
+    "bold_folder_labels": true,
 	"drag_text": false,
 	"draw_centered": false,
 	"draw_minimap_border": true,
@@ -17,7 +19,7 @@
 	"fade_fold_buttons": false,
 	"fallback_encoding": "UTF-8",
 	"folder_no_icon": false,
-	"font_size": 12,
+	"font_size": 13,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -27,8 +29,8 @@
 	],
 	"indent_to_bracket": true,
 	"line_numbers": true,
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"margin": 0,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
@@ -42,18 +44,29 @@
 	"show_line_endings": true,
 	"sidebar_no_icon": false,
 	"sidebar_row_padding_large": false,
-	"sidebar_size_14": true,
-	"status_bar_brighter": true,
 	"tab_height": 25,
 	"tab_min_width": 48,
 	"tab_size": 4,
 	"tabs_padding_medium": true,
 	"tabs_small": true,
-	"theme": "Afterglow-magenta.sublime-theme",
-	"theme_agila_sidebar_font_xsmall": true,
-	"theme_agila_compact_tab": true,
-	"theme_agila_modified_tab_marker_lightblue": true,
-	"theme_agila_sidebar_small": true,
-	"color_inactive_tabs": true,
-	"translate_tabs_to_spaces": true
+	//"theme": "Soda Light.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"material_theme_small_tab"                : true , // Set small tabs
+	//"material_theme_disable_fileicons"        : true , // Hide siderbar file type icons
+	//"material_theme_disable_folder_animation" : true , // Disable folder animation
+	"material_theme_small_statusbar"          : true , // Set small status bar
+	"material_theme_compact_sidebar"          : true , // Set compact sidebar
+	//"material_theme_disable_tree_indicator"   : true , // Disable sidebar file indicator
+	"material_theme_bold_tab"                 : true , // Make the tab labels bolder
+	"material_theme_tabs_separator"           : true , // Show tabs separator, this disables tab hover animation
+	//"material_theme_accent_lime"              : true , // set green lime accent color
+	//"material_theme_accent_purple"            : true , // set purple accent color
+	//"material_theme_accent_red"               : true , // set pale red accent color
+	//"material_theme_accent_orange"            : true , // set orange accent color
+	//"material_theme_accent_yellow"            : true , // set yellow accent color
+	//"material_theme_accent_indigo"            : true , // set indigo accent color
+	//"material_theme_panel_separator"          : true , // show bottom panel separator
+	//"material_theme_tabs_autowidth"           : true , // Enable autowidth for tabs
+	"material_theme_contrast_mode"            : true , // Enable sidebar and panels contrast mode
 }
