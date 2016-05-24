@@ -5,7 +5,7 @@
 	"caret_extra_top": 2,
 	"caret_extra_width": 2,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"fallback_encoding": "UTF-8",
@@ -14,7 +14,7 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 13,
+	"font_size": 12,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -55,6 +55,6 @@
 	"tab_size": 4,
 	"tabs_padding_medium": true,
 	"tabs_small": true,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
