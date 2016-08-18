@@ -5,7 +5,7 @@
 	"caret_extra_top": 2,
 	"caret_extra_width": 2,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"fallback_encoding": "UTF-8",
@@ -58,8 +58,6 @@
 		"SublimeLinter",
 		"TCL",
 		"Textile",
-		"Theme - Afterglow",
-		"Theme - Soda",
 		"TYPO3 Fluid Snippets",
 		"Vintage",
 		"WordPress"
@@ -97,6 +95,6 @@
 	"tab_size": 4,
 	"tabs_padding_medium": true,
 	"tabs_small": true,
-	"theme": "Material-Theme-Darker.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": false
 }
