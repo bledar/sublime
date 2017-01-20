@@ -15,10 +15,11 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 13,
+	"font_size": 12,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -102,7 +103,5 @@
 	"tab_size": 4,
 	"tabs_padding_medium": true,
 	"theme": "Material-Theme.sublime-theme",
-	"translate_tabs_to_spaces": false,
-	"remember_open_files": false,
-	"hot_exit": false,
+	"translate_tabs_to_spaces": false
 }
