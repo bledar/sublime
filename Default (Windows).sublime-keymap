@@ -1,4 +1,5 @@
 [
     { "keys": ["ctrl+1"], "command": "toggle_side_bar" },
     { "keys": ["ctrl+;"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+    { "keys": ["ctrl+u"], "command": "sftp_upload_file" }
 ]
