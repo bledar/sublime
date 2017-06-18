@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+        <![CDATA[<f:for each="{${1:array}}" as="{${2:item}}">${3:list}</f:for>]]>    
+    </content>
+    <tabTrigger>ffor</tabTrigger>
+    <scope>text.html</scope>
+    <description>Fluid for each</description>
+</snippet>

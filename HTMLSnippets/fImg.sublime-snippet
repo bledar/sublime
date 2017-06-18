@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<f:image src="{${1:src}}" width="390c"/>]]></content>
+    <tabTrigger>fimg</tabTrigger>
+    <scope>text.html</scope>
+    <description>Fluid Image source</description>
+</snippet>

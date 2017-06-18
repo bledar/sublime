@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<f:debug>{${1:obj}}</f:debug>]]></content>
+    <tabTrigger>fdeb</tabTrigger>
+    <scope>text.html</scope>
+    <description>Fluid Debug</description>
+</snippet>

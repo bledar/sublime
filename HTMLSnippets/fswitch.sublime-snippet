@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<f:switch expression="{person.gender}">
+  <f:case value="male">Mr.</f:case>
+  <f:case value="female">Mrs.</f:case>
+  <f:case default="TRUE">Mrs. or Mr.</f:case>
+</f:switch>
+]]></content>
+    <tabTrigger>fswitch</tabTrigger>
+    <scope>text.html</scope>
+    <description>Fluid if statment</description>
+</snippet>
