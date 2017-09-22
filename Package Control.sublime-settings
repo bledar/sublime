@@ -2,37 +2,26 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"SublimeCodeIntel"
 	],
 	"installed_packages":
 	[
 		"Alignment",
-		"AutoAligner",
 		"AutoFileName",
 		"Bootstrap 3 Autocomplete",
 		"BracketHighlighter",
 		"Color Highlighter",
-		"Diffy",
 		"Emmet",
-		"Git",
-		"GitStatusBar",
-		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"jQuery",
 		"Laravel Blade Highlighter",
 		"LiveReload",
 		"Material Theme",
 		"Package Control",
-		"PHP Codebeautifier",
-		"Quick File Creator",
-		"Quick File Open",
 		"Sass",
 		"SCSS",
 		"SFTP",
 		"SideBarEnhancements",
-		"SidebarSeparator",
-		"Sublime Tutor",
-		"SublimeCodeIntel",
-		"SublimeLinter",
 		"TYPO3 Fluid Snippets",
 		"TypoScript",
 		"WordPress"
