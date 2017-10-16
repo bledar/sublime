@@ -70,7 +70,7 @@
 	"line_padding_top": 6,
 	"margin": 5,
 	"overlay_scroll_bars": "enabled",
-	"remember_open_files": false,
+	"remember_open_files": true,
 	"rulers":
 	[
 		82
