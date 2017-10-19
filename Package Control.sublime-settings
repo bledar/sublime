@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Material Theme"
 	],
 	"installed_packages":
 	[
@@ -23,6 +24,8 @@
 		"SideBarEnhancements",
 		"TYPO3 Fluid Snippets",
 		"TypoScript",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
 		"WordPress"
 	]
 }
