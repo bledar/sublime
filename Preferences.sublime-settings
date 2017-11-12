@@ -40,7 +40,6 @@
 		"Lua",
 		"Makefile",
 		"Markdown",
-		"Material Theme",
 		"Matlab",
 		"Objective-C",
 		"OCaml",
@@ -85,6 +84,6 @@
 	"show_line_endings": true,
 	"tab_size": 4,
 	"tabs_padding_medium": true,
-	"theme": "Default.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

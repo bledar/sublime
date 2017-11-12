@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Material Theme"
 	],
 	"installed_packages":
 	[
@@ -14,6 +13,7 @@
 		"Emmet",
 		"HTML5",
 		"jQuery",
+		"JSX",
 		"Laravel Blade Highlighter",
 		"LiveReload",
 		"Material Theme",
