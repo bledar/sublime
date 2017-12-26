@@ -2,13 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Babel",
-		"Babel Snippets",
-		"ESLint-Formatter",
-		"React IDE",
-		"ReactJS",
-		"SublimeLinter",
-		"SublimeLinter-contrib-eslint"
 	],
 	"installed_packages":
 	[
@@ -22,6 +15,7 @@
 		"Emmet",
 		"ESLint-Formatter",
 		"HTML5",
+		"HTMLBeautify",
 		"jQuery",
 		"JSX",
 		"Laravel Blade Highlighter",
