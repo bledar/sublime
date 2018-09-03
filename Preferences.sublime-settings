@@ -32,7 +32,7 @@
 	"eslint.autoFixOnSave": true,
 	"fallback_encoding": "UTF-8",
 	"font_face": "Fira code",
-	"font_size": 13,
+	"font_size": 12,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
