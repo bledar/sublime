@@ -1,5 +1,6 @@
 [
     { "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+    { "keys": ["ctrl+b"], "command": "toggle_side_bar" },
     { "keys": ["ctrl+;"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
     { "keys": ["ctrl+u"], "command": "sftp_upload_file" },
     {  "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar" },
